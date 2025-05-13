@@ -1,0 +1,7 @@
+{
+  "successful_text": ".payment_status_top_title",
+  "successful_image": ".success__image",
+  "return_store_image": ".style_1_base_link_blue",
+  "check_image": ".payment_status_back_img",
+  "return_store": ".payment_status_back"
+}

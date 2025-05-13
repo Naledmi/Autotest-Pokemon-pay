@@ -1,0 +1,5 @@
+{
+ "profile": ".header_card_trainer",
+  "change_avatar": ".k_mobile > :nth-child(5)",
+  "buy_avatar": ".available > button"
+}
